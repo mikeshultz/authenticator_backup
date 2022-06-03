@@ -63,6 +63,7 @@ setup(
         "dev": [
             "autoflake~=1.4",
             "black>=21.11b1",
+            "bump2version~=1.0.1",
             "isort>=5.10.1",
             "mypy>=0.910",
             "setuptools>=44.0.0",
